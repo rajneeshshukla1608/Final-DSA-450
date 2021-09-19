@@ -1,4 +1,5 @@
-/*This 40 line od code can find duplicates in an array smartly using Dynamic Memory Allocations so stay tuned: */
+/* Brutforce approach for this problem - 
+This 40 line od code can find duplicates in an array smartly using Dynamic Memory Allocations so stay tuned: */
 #include<stdio.h>
 #include<stdlib.h>
 
