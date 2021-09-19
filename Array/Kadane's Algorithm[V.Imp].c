@@ -1,5 +1,11 @@
-/*kadan's Algorithm for largest sum subarray problem*/
-#include<stdio.h>
+/*Kadan's Algorithm for largest sum subarray problem
+the brutforce approach will take O(n^2) Complexity which is a exponential solution not an optimal solution, So
+the optimal solution is Kadan's Algorihm which is used to solve this problem in O(n) times
+Complexity - O(n) - Good
+Brutforce approach - o(n^2) - Bad
+It can get more Optimal Solution....
+*/
+ #include<stdio.h>
 
 void LargestSumSubarray(int *arr, int n){
     
